@@ -1,0 +1,19 @@
+body
+{margin:0;
+padding:0;}
+
+li a
+{ display:block;
+padding:10px;}
+header nav li
+{ display:inline-block}
+ul
+{text-decoration:none;}
+footer
+{background-color:black;display:inline-block;padding:20px;text-align:center;}
+img
+{width:40px;height:40px;color:white}
+button 
+{border-raduis:10px;}
+header
+{width:100%;}
